@@ -1,2 +1,2 @@
 # GATE
-GATE (Generator of Automated Test Executions)
+GATE (Generator of Automated Test Executions) é uma ferramenta desenvolvida com o objetivo de converter testes manuais em scripts automatizados de forma semiassistida ou automática. O projeto foi concebido como parte de um Trabalho de Conclusão de Curso (TCC), com foco em aumentar a produtividade na criação de testes automatizados e facilitar a transição entre testes exploratórios e pipelines de testes contínuos.
